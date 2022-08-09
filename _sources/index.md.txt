@@ -1,6 +1,5 @@
-# Page Title
+# My first project
 
-A short introduction for the top of your main page
+the first computer science project that I ever did 
 
 
-More content you want on your page
